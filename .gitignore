@@ -1,3 +1,8 @@
 .venv/
 .idea/
 hw2/task3/boston_subset.json
+hw3/task7/MNIST/
+hw3/task7/hw07_data_dict.npy
+hw3/task7/submission_dict_hw07.npy
+hw4/car_data.csv
+hw4/submission_dict_hw08.npy
