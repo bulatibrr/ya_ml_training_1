@@ -6,3 +6,7 @@ hw3/task7/hw07_data_dict.npy
 hw3/task7/submission_dict_hw07.npy
 hw4/car_data.csv
 hw4/submission_dict_hw08.npy
+final/hw_final_closed_data.npy
+final/hw_final_open_data.npy
+final/hw_final_open_target.npy
+final/submission_dict_final_p01.json
